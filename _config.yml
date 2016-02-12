@@ -10,11 +10,11 @@ encoding: UTF-8
 title: 等一等
 email: dengdeng1ba@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Record my daily life
+  成长是一场修行，知行合一，言行一致。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://deng1deng.com" # the base hostname & protocol for your site
-twitter_username: None
-github_username:  none
+twitter_username: wait02
+github_username: dengdeng1
 
 # Build settings
 markdown: kramdown
