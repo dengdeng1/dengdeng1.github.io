@@ -4,19 +4,14 @@ layout: default
  <h1 class="page-heading">Posts</h1>
 
   <br>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+{% raw %}
+<ul class="post-list">
+    {% for post in site.posts %}
+        <a href="{{site.baseurl}}{{post.url}}"> {{ post.title }}  </a> <br>
+        {{ post.date | date: "%F" }} <br>
+        {{ post.category }} <br>
+        {{ post.excerpt }} 
+    {% endfor %}
+{% endraw %}
 </ul>
-
   <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
-  
-  
- 
-
-  
-
-     
