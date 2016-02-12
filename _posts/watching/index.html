@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
-<div class="test">
-<h1>测试</h1>
-<p>c测试爱回家时；懒得换积分；辣椒水；的浪费空间啊合适的；了客服哈酒红色的；离开就好了；很快就哈里看见的服务和分布</p>
+ <h1 class="page-heading">Posts</h1>
 
-</div>
+  <br>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
