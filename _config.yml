@@ -18,3 +18,5 @@ github_username:  none
 
 # Build settings
 markdown: kramdown
+#设置固定链接
+permalink: /:categories/:year/:month/:day/:title
