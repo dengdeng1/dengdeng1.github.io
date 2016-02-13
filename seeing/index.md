@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
  <h1 class="page-heading">Posts</h1>
 
   <br>
