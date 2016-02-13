@@ -2,7 +2,7 @@
 layout: post
 title:  "《聚焦》观后感"
 date:   2016-02-09 21:26:36
-categories: reading
+categories: watching
 ---
 
 　　这部电影主要讲述了，新闻栏目《焦点》，深入挖掘新闻，揭露社会象所反映出来部分系统内部的问题。
