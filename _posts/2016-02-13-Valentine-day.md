@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "了解情人节"
+title: "了解情人节"
 date:   2016-02-13 20:26:36
 categories: seeing
 ---
