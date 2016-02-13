@@ -2,9 +2,8 @@
 layout: post
 title:  "了解情人节"
 date:   2016-02-13 20:26:36
-categories: seeing
+categories:seeing
 ---
-
 # 谈谈“情人节” #
 **起源**
 <p>古罗马“华伦泰”的传说</p>
