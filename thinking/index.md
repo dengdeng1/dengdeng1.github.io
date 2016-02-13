@@ -5,7 +5,7 @@ layout: default
 
   <br>
 <ul>
-  {% for post in site.categories.thinking %}
+  {% for post in site.categories.thinking%}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
