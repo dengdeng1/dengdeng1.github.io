@@ -5,7 +5,7 @@ layout: default
 
   <br>
 <ul>
-  {% for post in site.categories.seeing%}
+  {% for post in site.categories.seeing %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
