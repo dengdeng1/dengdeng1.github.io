@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "科普“引力波”"
+title:  "引力波"
 date:   2016-02-14 21:26:36
 categories: seeing
 ---
