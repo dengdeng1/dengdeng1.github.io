@@ -1,16 +1,16 @@
 
  encoding: UTF-8
 - title: 所见所闻
-  url: /seeing/
+  url: /_posts/seeing/
 
 - title: 所思所想
-  url: /thinking/
+  url: /_posts/thinking/
 
 - title: 读书
-  url: /reading/
+  url: /_posts/reading/
 
 - title: 观影
-  url: /watching/
+  url: /_posts/watching/
   
 - title: About me
-  url: /about/
+  url: /_posts/about/
