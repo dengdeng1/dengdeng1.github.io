@@ -22,5 +22,5 @@ markdown: kramdown
 deploy:
   type: github
   repository: git@github.com:dengdeng1/dengdeng1.github.io.git
-  branch: master
+  branch: gh-pages
 
