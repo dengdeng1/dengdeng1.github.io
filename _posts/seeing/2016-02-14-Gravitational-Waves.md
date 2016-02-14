@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "引力波"
+title:  "科普“引力波”"
 date:   2016-02-14 21:26:36
 categories: seeing
 ---
@@ -27,7 +27,7 @@ categories: seeing
 
    2016年2月11日，LIGO团队于华盛顿举行的一场记者会上共同宣布人类对于引力波的首个直接探测结果。所探测到的引力波来源于双黑洞融合
 
-[本部分消息来源](https://zh.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E6%B3%A2_(%E7%9B%B8%E5%B0%8D%E8%AB%96) "wiki")
+[引自维基百科](https://zh.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E6%B3%A2_(%E7%9B%B8%E5%B0%8D%E8%AB%96) "wiki")
 
 **为什么找到引力波如此重要？**
 
