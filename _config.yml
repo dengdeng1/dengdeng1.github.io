@@ -18,5 +18,9 @@ github_username: dengdeng1
 
 # Build settings
 markdown: kramdown
-#设置固定链接
+#解决不能实时更新
+deploy:
+  type: github
+  repository: git@github.com:dengdeng1/dengdeng1.github.io.git
+  branch: master
 
