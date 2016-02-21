@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[看不惯]坦坦荡荡做自己"
+title:  "[不明白]坦坦荡荡做自己"
 date:   2016-02-20 20:49:36  -0800
 categories: seeing
 ---
