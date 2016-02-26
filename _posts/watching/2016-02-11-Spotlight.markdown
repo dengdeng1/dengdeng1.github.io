@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "《聚焦》观后感"
+title:  "[watch]《聚焦》"
 date:   2016-02-09 21:26:36
 categories: watching
 ---
